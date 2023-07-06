@@ -1,4 +1,3 @@
-# https://youtu.be/jvZm8REF2KY
 """
 Standard Unet
 Model not compiled here, instead will be done externally to make it
