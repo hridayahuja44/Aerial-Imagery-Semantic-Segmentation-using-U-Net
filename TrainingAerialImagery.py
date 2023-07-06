@@ -1,4 +1,3 @@
-# https://youtu.be/jvZm8REF2KY
 """
 Explanation of using RGB masks: https://youtu.be/sGAwx4GMe4E
 
