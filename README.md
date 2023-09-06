@@ -39,7 +39,7 @@ The images are densely labeled and contain the following 6 classes:
 1. Batch Size = 16.0
 2. Steps per Epoch = 32.0
 3. Validation Steps = 4.0
-4. Input Shape = (512, 512, 3)
+4. Input Shape = (256, 256, 3)
 5. Initial Learning Rate = 0.0001 (with Exponential Decay LearningRateScheduler callback)
 6. Number of Epochs = 45 (with ModelCheckpoint & EarlyStopping callback)
 
